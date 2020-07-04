@@ -1,1 +1,1 @@
-# PRG1
+# Stricly for learning purposes
